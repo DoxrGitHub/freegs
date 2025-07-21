@@ -22,6 +22,7 @@ To USE FREEGS Semi-Manual:
 5. On that same page, press "Reset Token," and paste the token in discord/serverconf.json (rename `serverconf.json.example` to `serverconf.json`)
 6. Go to General Information and copy the Application ID; this is the client ID, paste it in `serverconf.json`
 7. `cd` into the repo and run `bun install` to install deps and `bun start` (you may have to install [Bun](https://bun.sh))
+8. Visit the URL that the program gives you to add FREEGS to a server. You can change the profile picture of the bot in Discord Developers, if you want.
 
 ## Fully-Automatic
 
