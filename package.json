@@ -1,0 +1,14 @@
+{
+  "name": "freegs",
+  "version": "1.0.0",
+  "main": "discord/main.js",
+  "scripts": {
+    "start": "bun discord/main.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.6"
+  },
+  "keywords": ["discord", "bot", "epic-games", "free-games"],
+  "license": "MIT"
+}

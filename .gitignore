@@ -1,0 +1,4 @@
+epic_bot.db
+node_modules/
+bun.lock
+discord/serverconf.json
